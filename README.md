@@ -10,7 +10,11 @@
 集成 Eureka,Spring-Admin会自己拉取 Eureka 上注册的 app 信息，主动去注册.
 client 端不需要 admin-client 的依赖，也不需要配置 admin 地址了，一切全部由 admin-server 自己实现
 
+![登录](https://github.com/CharleyXu/distributed-monitor/blob/master/show-picture/%E6%88%AA%E5%9B%BE20190402111221890.jpg)
 
+![主页](https://github.com/CharleyXu/distributed-monitor/blob/master/show-picture/%E6%88%AA%E5%9B%BE20190402111303134.jpg)
+
+![通知](https://github.com/CharleyXu/distributed-monitor/blob/master/show-picture/%E6%88%AA%E5%9B%BE20190402111448712.jpg)
 
 #### 监控缺陷
 
