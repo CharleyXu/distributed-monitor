@@ -30,5 +30,4 @@ client 端不需要 admin-client 的依赖，也不需要配置 admin 地址了�
 
 使用Spring Boot Actuator、Jolokia和Grafana实现准实时监控
 
-[使用Spring Boot Actuator、Jolokia和Grafana实现准实时监控]: http://blog.didispace.com/spring-boot-jolokia-grafana-monitor/
-
+http://blog.didispace.com/spring-boot-jolokia-grafana-monitor/
